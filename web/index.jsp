@@ -99,7 +99,7 @@
           <h1 class="mb-0">Ryan
             <span class="text-primary">Coughlin</span>
           </h1>
-          <div class="subheading mb-5">56 Arbury Drive · Iowa City, Iowa · (563) 508-7717 ·
+          <div class="subheading mb-5">56 Arbury Drive - Iowa City, Iowa - (563) 508-7717 -
             <a href="mailto:ryancoughlin5@gmail.com">ryancoughlin5@gmail.com</a>
           </div>
           <p class="mb-5"> I am currently a Senior Business Analytics/Information Systems major, and I will be seeking full-time employment

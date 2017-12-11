@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Resume - Start Bootstrap Theme</title>
+    <title>Resume - Ryan Coughlin</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -48,11 +48,14 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#education">Education</a>-->
           </li>
-          <li class="nav-item">
+          <!--<li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+          </li>-->
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#projects">Assignments</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
+              <a class="nav-link" href="img/Resume-RyanCoughlin v2.pdf" target="_blank">Resume</a>
           </li>
          <!-- <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
@@ -189,7 +192,7 @@
         </div>
       </section> -->
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+      <!--<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
         <div class="my-auto">
           <h2 class="mb-5">Skills</h2>
 
@@ -231,7 +234,7 @@
           </ul>
 
          
-         <!-- <div class="subheading mb-3">Workflow</div>
+         <div class="subheading mb-3">Workflow</div>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
@@ -245,11 +248,11 @@
             <li>
               <i class="fa-li fa fa-check"></i>
               Agile Development &amp; Scrum</li>
-          </ul>-->
+          </ul>
         </div>
-      </section>
+      </section>-->
       
-      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="projects">
+      <section class="resume-section row p-3 p-lg-5 d-flex d-column" id="projects">
         <div class="my-auto">
           <h2 class="mb-5">Assignments</h2>
 
@@ -313,6 +316,7 @@
           <br>
           <p> In this final assignment, I was asked to add update and search features to my MLB database on top of the
               add and delete features of the previous assignment. 
+        </div>
       </section>
       
       
@@ -363,7 +367,30 @@
       </section> -->
 
     </div>
+      
+    <div class="row">
+        <div class="my-auto">
+            <h2 class="mb-5" style="padding: 30px;">Deliverables</h2>
+        <div class="col-6">
+            <div class="img_container"> 
+                <img src="img/read.jpg" alt="Read Diagram" class="img_project">
+                    <a href="img/Deliverables.pdf">
+                        <div class="img_overlay">
+                            <div class="img_text"><b>Homework 5</b> <br>Add and Delete</div>
+                        </div> 
+                    </a> 
+            </div>
+          <div class="col-6">dsaaaaaaa</div>
+      </div>
+      </div>
+    </div>
 
+                
+                   
+
+                  <a href="http://f17-msci3300-06.azurewebsites.net/HW5-AddDelete/">  
+                    
+            </div>
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

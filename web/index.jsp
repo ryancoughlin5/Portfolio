@@ -230,6 +230,7 @@
             </li>
           </ul>
 
+         
          <!-- <div class="subheading mb-3">Workflow</div>
           <ul class="fa-ul mb-0">
             <li>
@@ -244,11 +245,81 @@
             <li>
               <i class="fa-li fa fa-check"></i>
               Agile Development &amp; Scrum</li>
-          </ul>
+          </ul>-->
         </div>
       </section>
+      
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="projects">
+        <div class="my-auto">
+          <h2 class="mb-5">Assignments</h2>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+            <div class="img_container"> 
+                
+                    <img src="img/salary_calc.jpg" alt="Avatar" class="img_project">
+                
+                  <a href="http://f17-msci3300-06.azurewebsites.net/HW3-SalaryCalc/">  
+                    <div class="img_overlay">
+                        <div class="img_text"><b>Homework 3</b> <br>Salary Calculator</div>
+                    </div> 
+                  </a>
+            </div>
+          <br>
+          <p class="mb-5">For this assignment we were asked to create a simple salary calculator. This was my first time
+          making a live application, so the process of getting everything coded and, at the end, being able to go to a real
+          website was rewarding and a good learning experience.</p> <br>
+          
+          <div class="img_container"> 
+                
+                    <img src="img/sqlDev.jpg" alt="Avatar" class="img_project">
+                
+                  <a href="http://f17-msci3300-06.azurewebsites.net/HW4-DatabaseRead/">  
+                    <div class="img_overlay">
+                        <div class="img_text"><b>Homework 4</b> <br>MLB Database</div>
+                    </div> 
+                  </a>
+            </div>
+          <br>
+          <p> In this assignment, I was asked to create a database using Oracle SQL Developer. We learned how to 
+            link that database to a to a web page</p> <br>
+          
+          <div class="img_container"> 
+                
+                    <img src="img/AddDelete.jpg" alt="Avatar" class="img_project">
+                
+                  <a href="http://f17-msci3300-06.azurewebsites.net/HW5-AddDelete/">  
+                    <div class="img_overlay">
+                        <div class="img_text"><b>Homework 5</b> <br>Add and Delete</div>
+                    </div> 
+                  </a>
+            </div>
+          <br>
+          <p> This assignment asked me to add a feature that would allow the user to add a new team and delete a 
+            team that was already in the database. This was the first time I had worked with servlets to add functionality, 
+            so it made for a good learning experience. I was also given certain guidelines as to how this final 
+            assignment should look. It asked me to produce this as if I was making it for a client under their 
+            specifications.
+          </p> <br></p> <br>
+          
+          <div class="img_container"> 
+                
+                    <img src="img/UpdateSearch.jpg" alt="Avatar" class="img_project">
+                
+                  <a href="http://f17-msci3300-06.azurewebsites.net/HW6-UpdateSearch/">  
+                    <div class="img_overlay">
+                        <div class="img_text"><b>Homework 6</b> <br>Update and Search</div>
+                    </div> 
+                  </a>
+            </div>
+          <br>
+          <p> In this final assignment, I was asked to add update and search features to my MLB database on top of the
+              add and delete features of the previous assignment. 
+      </section>
+      
+      
+      
+      
+
+      <!--<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
           <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skiier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
@@ -256,7 +327,7 @@
         </div>
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
+      <!--<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
         <div class="my-auto">
           <h2 class="mb-5">Awards &amp; Certifications</h2>
           <ul class="fa-ul mb-0">

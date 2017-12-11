@@ -55,6 +55,9 @@
             <a class="nav-link js-scroll-trigger" href="#projects">Assignments</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#deliverables">Deliverables</a>
+          </li>
+          <li class="nav-item">
               <a class="nav-link" href="img/Resume-RyanCoughlin v2.pdf" target="_blank">Resume</a>
           </li>
          <!-- <li class="nav-item">
@@ -370,27 +373,33 @@
       
     <div class="row">
         <div class="my-auto">
-            <h2 class="mb-5" style="padding: 30px;">Deliverables</h2>
-        <div class="col-6">
-            <div class="img_container"> 
-                <img src="img/read.jpg" alt="Read Diagram" class="img_project">
-                    <a href="img/Deliverables.pdf">
-                        <div class="img_overlay">
-                            <div class="img_text"><b>Homework 5</b> <br>Add and Delete</div>
-                        </div> 
-                    </a> 
+        <h2 class="mb-5" style="padding: 30px;" id="deliverables">Deliverables</h2>
+            <div class="col-6">
+                <img src="img/read.jpg" alt="Read Diagram" style="height: 300px; width: 400px;"><br>
+                <a href="img/Deliverables.pdf" class="button button2">HW4 Deliverables</a>
             </div>
-          <div class="col-6">dsaaaaaaa</div>
-      </div>
-      </div>
-    </div>
-
-                
-                   
-
-                  <a href="http://f17-msci3300-06.azurewebsites.net/HW5-AddDelete/">  
-                    
+            
+            <div class="col-6">
+               <img src="img/add.jpg" alt="Add Diagram" style="height: 300px; width: 400px;">
+               <a href="img/Storyboard.pdf" class="button button2">HW5 Deliverables</a></div> 
             </div>
+      </div>
+      
+      <div class="row">
+        <div class="my-auto">
+            <div class="col-6">
+                <img src="img/updateDiagram.jpg" alt="Update Search Diagram" style="height: 300px; width: 400px;"><br>
+                <a href="img/UpdateSearch Diagrams.pdf" class="button button2">HW6 Deliverables</a>
+            </div>
+            
+            <div class="col-6">
+               <img src="img/userStories.jpg" alt="User Stories" style="height: 300px; width: 450px;">
+               <a href="img/HW6_User_Stories.pdf" class="button button2">HW6 User Stories</a></div> 
+            </div>
+      </div>
+
+     
+      
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

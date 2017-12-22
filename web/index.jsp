@@ -98,8 +98,8 @@
           <div class="subheading mb-5">56 Arbury Drive - Iowa City, Iowa - (563) 508-7717 -
             <a href="mailto:ryancoughlin5@gmail.com">ryancoughlin5@gmail.com</a>
           </div>
-          <p class="mb-5"> I am currently a Senior Business Analytics/Information Systems major, and I will be seeking full-time employment
-            in an IT or analytics role upon graduation in May 2018. I am a very hard-working individual who always wants
+            <p class="mb-5" style="color: #343a40;"> I am currently a Senior Business Analytics/Information Systems major, and I will be seeking full-time employment
+            in an analytics or IT role upon graduation in May 2018. I am a very hard-working individual who always wants
             to succeed. I believe that I get those attributes from my love of playing sports. I played just about every
             sport that I was able to while I was growing up, and I believe that is one of the main reasons I am such a
             driven individual. Athletics can teach a person much more than just how to play a particular game. It can
@@ -302,10 +302,23 @@
         <div class="wrap">
             <div class="projectalign">
                 <h4> <a href="mlb.jsp">MSCI 3500: Data Mining Group Project</a></h4>
-                dsfwefwefwefwfe<br><br>
+                Using RStudio and Rattle, we set out to see what variables contributed to a team making the 
+                playoffs.<br><br>
                 
                 <h4> <a href="guns.jsp">MSCI 3250: Analyzing Data for Business Intelligence Group Project</a></h4>
-                sdadfadf
+                In scelerisque ac turpis vitae bibendum. Suspendisse placerat libero ligula, at eleifend ex aliquet placerat. 
+                Aenean eu est feugiat, porta dolor bibendum, auctor nisl. Aliquam ut tellus scelerisque, euismod dolor non, 
+                laoreet nunc.<br><br>
+                
+                <h4> <a href="#">MSCI 3300: Software Design and Development Group Project</a></h4>
+                In scelerisque ac turpis vitae bibendum. Suspendisse placerat libero ligula, at eleifend ex aliquet placerat. 
+                Aenean eu est feugiat, porta dolor bibendum, auctor nisl. Aliquam ut tellus scelerisque, euismod dolor non, 
+                laoreet nunc<br><br>
+                
+                <h4> <a href="#">MSCI 3300: Software Design and Development Individual Assignment</a></h4>
+                In scelerisque ac turpis vitae bibendum. Suspendisse placerat libero ligula, at eleifend ex aliquet placerat. 
+                Aenean eu est feugiat, porta dolor bibendum, auctor nisl. Aliquam ut tellus scelerisque, euismod dolor non, 
+                laoreet nunc.<br><br>
             </div>
         </div>
 

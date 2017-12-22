@@ -29,7 +29,6 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Start Bootstrap</span>
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/me.jpg" alt="">
         </span>
@@ -52,10 +51,7 @@
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
           </li>-->
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#projects">Assignments</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#deliverables">Deliverables</a>
+            <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
           </li>
           <li class="nav-item">
               <a class="nav-link" href="img/Resume-RyanCoughlin v2.pdf" target="_blank">Resume</a>
@@ -255,77 +251,6 @@
         </div>
       </section>-->
       
-      <section class="resume-section row p-3 p-lg-5 d-flex d-column" id="projects">
-        <div class="my-auto">
-          <h2 class="mb-5">Assignments</h2>
-
-            <div class="img_container"> 
-                
-                    <img src="img/salary_calc.jpg" alt="Avatar" class="img_project">
-                
-                  <a href="http://f17-msci3300-06.azurewebsites.net/HW3-SalaryCalc/">  
-                    <div class="img_overlay">
-                        <div class="img_text"><b>Homework 3</b> <br>Salary Calculator</div>
-                    </div> 
-                  </a>
-            </div>
-          <br>
-          <p class="mb-5">For this assignment we were asked to create a simple salary calculator. This was my first time
-          making a live application, so the process of getting everything coded and, at the end, being able to go to a real
-          website was rewarding and a good learning experience.</p> <br>
-          
-          <div class="img_container"> 
-                
-                    <img src="img/sqlDev.jpg" alt="Avatar" class="img_project">
-                
-                  <a href="http://f17-msci3300-06.azurewebsites.net/HW4-DatabaseRead/">  
-                    <div class="img_overlay">
-                        <div class="img_text"><b>Homework 4</b> <br>MLB Database</div>
-                    </div> 
-                  </a>
-            </div>
-          <br>
-          <p> In this assignment, I was asked to create a database using Oracle SQL Developer. We learned how to 
-            link that database to a to a web page</p> <br>
-          
-          <div class="img_container"> 
-                
-                    <img src="img/AddDelete.jpg" alt="Avatar" class="img_project">
-                
-                  <a href="http://f17-msci3300-06.azurewebsites.net/HW5-AddDelete/">  
-                    <div class="img_overlay">
-                        <div class="img_text"><b>Homework 5</b> <br>Add and Delete</div>
-                    </div> 
-                  </a>
-            </div>
-          <br>
-          <p> This assignment asked me to add a feature that would allow the user to add a new team and delete a 
-            team that was already in the database. This was the first time I had worked with servlets to add functionality, 
-            so it made for a good learning experience. I was also given certain guidelines as to how this final 
-            assignment should look. It asked me to produce this as if I was making it for a client under their 
-            specifications.
-          </p> <br></p> <br>
-          
-          <div class="img_container"> 
-                
-                    <img src="img/UpdateSearch.jpg" alt="Avatar" class="img_project">
-                
-                  <a href="http://f17-msci3300-06.azurewebsites.net/HW6-UpdateSearch/">  
-                    <div class="img_overlay">
-                        <div class="img_text"><b>Homework 6</b> <br>Update and Search</div>
-                    </div> 
-                  </a>
-            </div>
-          <br>
-          <p> In this final assignment, I was asked to add update and search features to my MLB database on top of the
-              add and delete features of the previous assignment. 
-        </div>
-      </section>
-      
-      
-      
-      
-
       <!--<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
@@ -371,32 +296,22 @@
 
     </div>
       
-    <div class="row">
-        <div class="my-auto">
-        <h2 class="mb-5" style="padding: 30px;" id="deliverables">Deliverables</h2>
-            <div class="col-6">
-                <img src="img/read.jpg" alt="Read Diagram" style="height: 300px; width: 400px;"><br>
-                <a href="img/Deliverables.pdf" class="button button2">HW4 Deliverables</a>
+      <div class="my-auto">
+        <h2 class="mb-5" style="padding-left: 30px;" id="projects">Projects</h2>
+    
+        <div class="wrap">
+            <div class="projectalign">
+                <h4> <a href="mlb.jsp">MSCI 3500: Data Mining Group Project</a></h4>
+                dsfwefwefwefwfe<br><br>
+                
+                <h4> <a href="guns.jsp">MSCI 3250: Analyzing Data for Business Intelligence Group Project</a></h4>
+                sdadfadf
             </div>
-            
-            <div class="col-6">
-               <img src="img/add.jpg" alt="Add Diagram" style="height: 300px; width: 400px;">
-               <a href="img/Storyboard.pdf" class="button button2">HW5 Deliverables</a></div> 
-            </div>
-      </div>
-      
-      <div class="row">
-        <div class="my-auto">
-            <div class="col-6">
-                <img src="img/updateDiagram.jpg" alt="Update Search Diagram" style="height: 300px; width: 400px;"><br>
-                <a href="img/UpdateSearch Diagrams.pdf" class="button button2">HW6 Deliverables</a>
-            </div>
-            
-            <div class="col-6">
-               <img src="img/userStories.jpg" alt="User Stories" style="height: 300px; width: 450px;">
-               <a href="img/HW6_User_Stories.pdf" class="button button2">HW6 User Stories</a></div> 
-            </div>
-      </div>
+        </div>
+
+        </div>
+
+
 
      
       
